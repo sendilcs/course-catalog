@@ -1,7 +1,7 @@
 # Getting Started
 Use: JDK 11
 
-Start application by running below mvn command or in IDE:
+Start application by running below mvn command or in IDE
 mvn spring-boot:run
 
 Use Swagger UI to test the service
