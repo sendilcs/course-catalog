@@ -7,6 +7,12 @@ mvn spring-boot:run
 Use Swagger UI to test the service
 http://localhost:8080/swagger-ui/index.html
 
+Explore Actuator end-points
+http://localhost:8080/admin/info
+http://localhost:8080/admin/health
+http://localhost:8080/admin/prometheus
+http://localhost:8080/admin/metrics/jvm.memory.used
+
 ### Reference Documentation
 For further reference, please consider the following sections:
 
